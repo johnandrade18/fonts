@@ -1,0 +1,26 @@
+body{
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  background-image: url(../img/fondo4.jpg); 
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed; 
+}
+.margen{
+    margin-top: 10% !important;
+    width: 30rem !important;
+}
+.img-container{
+    width: 120px !important;
+    height: 70px !important;
+    }
+.icofont{
+    font-size: 30px !important;
+}
+.font-title{
+    font-size: 35px !important;
+    color: white !important;
+    border-spacing: : 3px !important;
+    border-color: black !important;
+}
